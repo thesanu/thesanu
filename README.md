@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Kumar
-- 👀 I’m interested in java full Stack development.
-- 🌱 I’m currently learning srpringBoot
+- 👀 I’m a full Stack developer.
+- 🌱 I’m currently learning .net core
 - 📫 How to reach me @thesanu
 
 
