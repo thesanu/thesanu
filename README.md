@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Kumar
 - 👀 I’m a full Stack developer.
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning Spring Boot.
 - 📫 How to reach me @thesanu
 
 
